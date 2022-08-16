@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-export AWS_ACCESS_KEY_ID=
-export AWS_SECRET_ACCESS_KEY=
+export AWS_ACCESS_KEY_ID=AKIAWMC5IJALI7O6V643
+export AWS_SECRET_ACCESS_KEY=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
 export AWS_DEFAULT_REGION=us-east-1
 
 ansible-playbook                                                              \
